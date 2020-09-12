@@ -10,7 +10,7 @@ I am using a Macbook pro with iTerm and VsCode in it
 - 👯 &nbsp; I’m looking to collaborate on projects with React, Vue, or anything that has UI/UX importance
 - 📫 &nbsp; Email me: syam.sp0965@gmail.com
 - 😄 &nbsp; Hobby: Motor bikes 🏍 🏍
-- ⚡ &nbsp; Fun fact: CSS is the most beatiful thing that not everyone appreciate
+- ⚡ &nbsp; Fun fact: CSS is the most elegant thing that not everyone appreciate
 - 🌐 &nbsp; Website: www.syamsp.com
 
 <br />
