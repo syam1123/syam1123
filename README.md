@@ -7,7 +7,7 @@ I am using a Macbook pro with iTerm and VsCode in it
 - 🔭 &nbsp; I’m currently working on some UI heavy projects in <img src="https://api.iconify.design/logos:react.svg" alt="react" /> and <img src="https://api.iconify.design/logos:vue.svg" alt="vue"/>
 - 👨‍💻 &nbsp; Part-time Reactjs and CSS3 consultant
 - 🌱 &nbsp; I’m currently learning <img src="https://api.iconify.design/logos:python.svg" alt="python" /> 
-- 👯 &nbsp; I’m looking to collaborate on projects with React, Vue, or any projects that has UI/UX importance
+- 👯 &nbsp; I’m looking to collaborate on projects with React, Vue, or anything that has UI/UX importance
 - 📫 &nbsp; Email me: syam.sp0965@gmail.com
 - 😄 &nbsp; Hobby: Motor bikes 🏍 🏍
 - ⚡ &nbsp; Fun fact: CSS is the most beatiful thing that not everyone appreciate
