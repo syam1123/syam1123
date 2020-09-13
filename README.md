@@ -30,7 +30,7 @@ I am using a Macbook pro with iTerm and VsCode in it
   <img src="https://api.iconify.design/logos:nodejs-icon.svg" alt="nodejs" width="32" height="32"/> &nbsp;
   <img src="https://api.iconify.design/logos:firebase.svg" alt="firebase" width="32" height="32"/> &nbsp;
   <img src="https://api.iconify.design/logos:aws.svg" alt="aws" width="32" height="32"/> &nbsp;
-  <img src="https://api.iconify.design/logos:styled-components.svg" alt="styled components" width="32" height="32"/>
+  <img src="https://api.iconify.design/simple-icons:styled-components.svg" alt="styled components" width="32" height="32"/>
 </p>
 <br />
 <p align="center">
