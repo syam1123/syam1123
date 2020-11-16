@@ -8,7 +8,7 @@ I am using a Macbook pro with iTerm and VsCode in it
 - 👨‍💻 &nbsp; Part-time Reactjs and CSS3 consultant
 - 🌱 &nbsp; I’m currently learning <img src="https://api.iconify.design/logos:python.svg" alt="python" /> 
 - 👯 &nbsp; I’m looking to collaborate on projects with React, Vue, or anything that has UI/UX importance
-- 📫 &nbsp; Email me: syam.sp0965@gmail.com
+- 📫 &nbsp; Email me: hello@syamsp.com
 - 😄 &nbsp; Hobby: Motor bikes 🏍 🏍
 - ⚡ &nbsp; Fun fact: CSS is the most elegant thing that not everyone appreciate
 - 🌐 &nbsp; Website: www.syamsp.com
