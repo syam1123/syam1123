@@ -4,9 +4,9 @@ I am Syam Sadasivan Pillai, based in Düsseldorf, Germany. Currently working for
 
 I am using a Macbook pro with iTerm and VsCode in it  
 
-- 🔭 &nbsp; I’m currently working on some UI heavy projects in <img src="https://api.iconify.design/logos:react.svg" alt="react" /> and <img src="https://api.iconify.design/logos:vue.svg" alt="vue"/>
+- 🔭 &nbsp; I’m currently working on some UI heavy projects in <img src="https://api.iconify.design/logos:react.svg" width="20px" alt="react" /> and <img src="https://api.iconify.design/logos:vue.svg" alt="vue"/>
 - 👨‍💻 &nbsp; Part-time Reactjs and CSS3 consultant
-- 🌱 &nbsp; I’m currently learning <img src="https://api.iconify.design/logos:python.svg" alt="python" /> 
+- 🌱 &nbsp; I’m currently learning RxJs
 - 👯 &nbsp; I’m looking to collaborate on projects with React, Vue, or anything that has UI/UX importance
 - 📫 &nbsp; Email me: hello@syamsp.com
 - 😄 &nbsp; Hobby: Motor bikes 🏍 🏍
