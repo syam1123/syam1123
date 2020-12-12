@@ -6,7 +6,7 @@ I am using a Macbook pro with iTerm and VsCode in it
 
 - 🔭 &nbsp; I’m currently working on some UI heavy projects in <img src="https://api.iconify.design/logos:react.svg" width="20px" alt="react" /> and <img src="https://api.iconify.design/logos:vue.svg" alt="vue"/>
 - 👨‍💻 &nbsp; Part-time Reactjs and CSS3 consultant
-- 🌱 &nbsp; I’m currently learning <img src="https://api.iconify.design/logos:reactivex.svg?height=20" alt="RxJs"/>
+- 🌱 &nbsp; I’m currently learning <img src="https://api.iconify.design/logos:reactivex.svg?height=20" alt="RxJs"/> and <img src="https://api.iconify.design/logos:svelte-icon.svg?height=20" alt="svelte"/>
 - 👯 &nbsp; I’m looking to collaborate on projects with React, Vue, or anything that has UI/UX importance
 - 📫 &nbsp; Email me: hello@syamsp.com
 - 😄 &nbsp; Hobby: Motor bikes 🏍 🏍
