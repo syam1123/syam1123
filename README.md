@@ -1,6 +1,6 @@
 <h1>Hi there 👋</h1>
 
-I am Syam Sadasivan Pillai, based in Düsseldorf, Germany. Currently working for Instana GmbH as a Senior Software Engineer. Javascript and CSS is what I love. My eyes and ears are open to ReactJs, VueJs, GraphQl, Websocket, PWA, Web Security, Accessibility. 
+Syam Sadasivan Pillai here, based in Düsseldorf, Germany. Currently working for Instana GmbH as a Chief Technology Officer. Javascript and CSS is what I love. My eyes and ears are open to ReactJs, VueJs, GraphQl, Websocket, PWA, Web Security, Accessibility. 
 
 I am using a Macbook pro with iTerm and VsCode in it  
 
