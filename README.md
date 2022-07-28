@@ -38,6 +38,10 @@ I am using a Macbook pro with iTerm and VsCode in it
 </p>
 
 <p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=syam1123&theme=react-dark&hide_border=true&area=true" alt="activity graph" />
+</p>
+
+<p align="center">
   <a href="https://syamsp.com" title="website" target="blank"><img align="center" src="https://api.iconify.design/bi:link-45deg.svg" alt="website icon" height="24" width="24" /></a>
   <a href="https://twitter.com/SadasivanSyam" title="twitter" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="twitter icon" height="24" width="24" /></a>
   <a href="https://www.linkedin.com/in/syamspillai/" title="linkedin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin icon" height="24" width="24" /></a>
