@@ -37,9 +37,9 @@ I am using a Macbook pro with iTerm and VsCode in it
   <img src="https://github-readme-stats.vercel.app/api?username=syam1123&show_icons=true&count_private=true" alt="syam1123" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://activity-graph.herokuapp.com/graph?username=syam1123&theme=react-dark&hide_border=true&area=true" alt="activity graph" />
-</p>
+</p> -->
 
 <p align="center">
   <a href="https://syamsp.com" title="website" target="blank"><img align="center" src="https://api.iconify.design/bi:link-45deg.svg" alt="website icon" height="24" width="24" /></a>
