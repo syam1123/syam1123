@@ -34,7 +34,7 @@ I am using a Macbook pro with iTerm and VsCode in it
 </p>
 <br />
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=syam1123&show_icons=true&count_private=true" alt="syam1123" />
+  <img src="https://github-readme-stats.vercel.app/api?username=syam1123&show_icons=true&count_private=true&theme=dracula" alt="syam1123" />
 </p>
 
 <!-- <p align="center">
