@@ -1,8 +1,8 @@
 <h1>Hi there 👋</h1>
 
-Syam Sadasivan Pillai here, based in Düsseldorf, Germany. Currently working for Peter Pitch GmbH as the Head Of Engineering. Javascript and CSS is what I love. My eyes and ears are open to ReactJs, VueJs, GraphQl, Websocket, PWA, Web Security, Accessibility. 
+Syam Sadasivan Pillai here, based in Düsseldorf, Germany. Currently working for Leapsome GmbH as a Senior Software Engineer. Javascript and CSS are what I love. My eyes and ears are open to ReactJs, VueJs, GraphQl, Websocket, Web Security, and Accessibility. 
 
-I am using a Macbook pro with iTerm and VsCode in it  
+I am using a Macbook Pro with iTerm and VsCode in it  
 
 - 🔭 &nbsp; I’m currently working on some UI heavy projects in <img src="https://api.iconify.design/logos:react.svg" width="20px" alt="react" /> and <img src="https://api.iconify.design/logos:vue.svg" alt="vue"/>
 - 👨‍💻 &nbsp; Part-time Reactjs and CSS3 consultant
@@ -10,7 +10,7 @@ I am using a Macbook pro with iTerm and VsCode in it
 - 👯 &nbsp; I’m looking to collaborate on projects with React, Vue, or anything that has UI/UX importance
 - 📫 &nbsp; Email me: hello@syamsp.com
 - 😄 &nbsp; Hobby: Motor bikes 🏍 🏍
-- ⚡ &nbsp; Fun fact: CSS is the most elegant thing that not everyone appreciate
+- ⚡ &nbsp; Fun fact: CSS is the most elegant thing that not everyone appreciates
 - 🌐 &nbsp; Website: www.syamsp.com
 
 <br />
@@ -30,7 +30,7 @@ I am using a Macbook pro with iTerm and VsCode in it
   <img src="https://api.iconify.design/logos:nodejs-icon.svg" alt="nodejs" width="32" height="32"/> &nbsp;
   <img src="https://api.iconify.design/logos:firebase.svg" alt="firebase" width="32" height="32"/> &nbsp;
   <img src="https://api.iconify.design/logos:aws.svg" alt="aws" width="32" height="32"/> &nbsp;
-  <img src="https://api.iconify.design/simple-icons:styled-components.svg" alt="styled components" width="32" height="32"/>
+  <img src="https://api.iconify.design/simple-icons:styledcomponents.svg" alt="styled components" width="32" height="32"/>
 </p>
 <br />
 <p align="center">
